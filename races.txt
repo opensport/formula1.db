@@ -1,22 +1,30 @@
+############################
+# 2013 Calendar/Season
 
-# 2013 calendar/season
+15.-17.Mar 2013  / Grand Prix Australia
+22.-24.Mar 2013  / Grand Prix Malaysia
 
-Mar 15.-17.2013  / Grand Prix Australien
-Mar 22.-24.2013  / Grand Prix Malaysia
-Apr 12.-14.2013  / Grand Prix China
-Apr 19.-21.2013  / Grand Prix Bahrain
-May 10.-12.2013  / Grand Prix Spanien
-May 23.-26.2013  / Grand Prix Monaco
-Jun  7.-9.2013   / Grand Prix Kanada
-Jun 28.-30.2013  / Grand Prix Großbritannien
-Jul  5.-7.2013   / Grand Prix Deutschland
-Jul 26.-28.2013  / Grand Prix Ungarn
-Aug 23.-25.2013  / Grand Prix Belgien
-Sep  6.-8.2013   / Grand Prix Italien
-Sep 20.-22.2013  / Grand Prix Singapur
-Oct  4.-6.2013   / Grand Prix Südkorea
-Oct 11.-13.2013  / Grand Prix Japan
-Oct 25.-27.2013  / Grand Prix Indien
-Nov 1.-3.2013    / Grand Prix Abu Dhabi
-Nov 15.-17.2013  / Grand Prix United States
-Nov 22.-24.2013  / Grand Prix Brasilien
+12.-14.Apr 2013  / Grand Prix China
+19.-21.Apr 2013  / Grand Prix Bahrain
+
+10.-12.May 2013  / Grand Prix Spain
+23.-26.May 2013  / Grand Prix Monaco
+
+ 7.-9.Jun 2013   / Grand Prix Canada
+28.-30.Jun 2013  / Grand Prix Great Britain
+
+ 5.-7.Jul 2013   / Grand Prix Germany
+26.-28.Jul 2013  / Grand Prix Hungary
+
+23.-25.Aug 2013  / Grand Prix Belgium
+
+ 6.-8.Sep 2013   / Grand Prix Italy
+20.-22.Sep 2013  / Grand Prix Singapur
+
+ 4.-6.Oct 2013   / Grand Prix South Korea
+11.-13.Oct 2013  / Grand Prix Japan
+25.-27.Oct 2013  / Grand Prix India
+
+ 1.-3.Nov 2013    / Grand Prix Abu Dhabi
+15.-17.Nov 2013  / Grand Prix United States
+22.-24.Nov 2013  / Grand Prix Brasil

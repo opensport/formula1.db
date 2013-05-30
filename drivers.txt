@@ -1,5 +1,14 @@
-Vettel Sebastian,    Red Bull, de
-Webber Mark,         Red Bull, au
+
+#####
+## todo: use squads.txt or similar for mapping drivers for season to team? why? why not??
+#   find better name than squads?
+# use drivers.txt and move drivers to people.txt ??
+
+##
+#  todo change names - first name first e.g. use Sebastian Vettel - why? why not? more natural
+
+Vettel Sebastian|S. Vettel|Vettel,    Red Bull, de
+Webber Mark|M. Webber|Webber,         Red Bull, au
 
 Alonso Fernando,     Ferrari, es
 Massa Felipe,        Ferrari, br
@@ -17,7 +26,7 @@ Hulkenberg Nico,     Sauber, de
 Gutierrez Esteban,   Sauber, mx
 
 Bottas Valtteri,     Williams, fi
-Maldonado Pastor,    Williams, ve
+Maldonado Pastor,    Williams, ve   # VEN
 
 Di Resta Paul,       Force India, gb # use en, uk?
 Sutil Adrian,        Force India, de
@@ -27,7 +36,7 @@ Vergne Jean Eric,    Toro Rosso, fr
 
 Bianchi Jules,       Marussia, fr
 Chilton Max,         Marussia, gb # use en, uk?
-Gonzalez Rodolfo,    Marussia, ve
+Gonzalez Rodolfo,    Marussia, ve   # VEN
 
 Pic Charles,         Caterham, fr
 Van Der Garde Giedo, Caterham, nl
