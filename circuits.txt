@@ -1,0 +1,21 @@
+## todo - add all cities and countries; use key w/ grand prix??
+
+Grand Prix Australia      / Melbourne Grand Prix Circuit
+Grand Prix Malaysia       / Sepang International Circuit
+Grand Prix China          / Shanghai Circuit
+Grand Prix Bahrain        / Bahrain International Circuit
+Grand Prix Spanien        / Circuit de Catalunya
+Grand Prix Monaco         / Circuit de Monaco
+Grand Prix Kanada         / Circuit Gilles Villeneuve | Montreal
+Grand Prix Großbritannien / Silverstone Circuit
+Grand Prix Deutschland    / Nürburgring
+Grand Prix Ungarn         / Hungaroring
+Grand Prix Belgien        / Spa-Francorchamps
+Grand Prix Italien        / Autodromo Nazionale Monza
+Grand Prix Singapur       / Marina Bay Street Circuit
+Grand Prix Südkorea       / Korean International Circuit
+Grand Prix Japan          / Suzuka International Racing Course
+Grand Prix Indien         / Buddh International Circuit
+Grand Prix Abu Dhabi      / Yas Marina Circuit
+Grand Prix United States  / Circuit of The Americas
+Grand Prix Brasilien      / Autódromo José Carlos Pace

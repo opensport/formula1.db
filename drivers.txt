@@ -1,0 +1,35 @@
+Vettel Sebastian,    Red Bull, de
+Webber Mark,         Red Bull, au
+
+Alonso Fernando,     Ferrari, es
+Massa Felipe,        Ferrari, br
+
+Hamilton Lewis,      Mercedes, gb  # use en, uk?
+Rosberg Nico,        Mercedes, de
+
+Raikkonen Kimi,      Lotus, fi
+Grosjean Romain,     Lotus, fr
+
+Button Jenson,       McLaren, gb # use en, uk ?
+Perez Sergio,        McLaren, mx
+
+Hulkenberg Nico,     Sauber, de
+Gutierrez Esteban,   Sauber, mx
+
+Bottas Valtteri,     Williams, fi
+Maldonado Pastor,    Williams, ve
+
+Di Resta Paul,       Force India, gb # use en, uk?
+Sutil Adrian,        Force India, de
+
+Ricciardo Daniel,    Toro Rosso, au
+Vergne Jean Eric,    Toro Rosso, fr
+
+Bianchi Jules,       Marussia, fr
+Chilton Max,         Marussia, gb # use en, uk?
+Gonzalez Rodolfo,    Marussia, ve
+
+Pic Charles,         Caterham, fr
+Van Der Garde Giedo, Caterham, nl
+Kovalainen Heikki,   Caterham, fi
+Qing Hua Ma,         Caterham, cn
