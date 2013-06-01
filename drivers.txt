@@ -1,44 +1,54 @@
+############################
+# Pacific & (Australia)
 
-#####
-## todo: use squads.txt or similar for mapping drivers for season to team? why? why not??
-#   find better name than squads?
-# use drivers.txt and move drivers to people.txt ??
+Mark Webber|M. Webber|Webber,      27 Aug 1976,  WEB,  Queanbeyan | New South Wales,  au
+Daniel Ricciardo,    1 Jul 1989,   Perth | Western Australia,  au
 
-##
-#  todo change names - first name first e.g. use Sebastian Vettel - why? why not? more natural
 
-Vettel Sebastian|S. Vettel|Vettel,    Red Bull, de
-Webber Mark|M. Webber|Webber,         Red Bull, au
+##############
+# Europe
 
-Alonso Fernando,     Ferrari, es
-Massa Felipe,        Ferrari, br
+Sebastian Vettel|S. Vettel|Vettel,  3 July 1987, VET,  Heppenheim | Hesse,  de
+Nico Rosberg,     27 Jun 1985,  ROS,   Wiesbaden  de
+Nico Hülkenberg,   19 Aug 1987,   Emmerich am Rhein,    de
+Adrian Sutil,       11 Jan 1983,  SUT, Starnberg,    de
 
-Hamilton Lewis,      Mercedes, gb  # use en, uk?
-Rosberg Nico,        Mercedes, de
+Jenson Button,    19 Jan 1980,  BUT, Frome | Somerset,  gb
+Lewis Hamilton,    7 Jan 1985,  HAM, Stevenage | Hertfordshire, gb
+Paul di Resta,      16 Apr 1986,  DIR, Uphall | West Lothian (Scotland),  gb
+Max Chilton,        21 Apr 1991,  Reigate | Surrey, gb
 
-Raikkonen Kimi,      Lotus, fi
-Grosjean Romain,     Lotus, fr
+Fernando Alonso,  29 Jul 1981,  ALO,  Oviedo | Asturias,   es
 
-Button Jenson,       McLaren, gb # use en, uk ?
-Perez Sergio,        McLaren, mx
+Kimi Räikkönen,   17 Oct 1979,   Espoo,  fi
+Valtteri Bottas,    28 Aug 1989,  BOT,  Nastola,  fi
+Heikki Kovalainen,    19 Oct 1981,  Suomussalmi,   fi
 
-Hulkenberg Nico,     Sauber, de
-Gutierrez Esteban,   Sauber, mx
+Romain Grosjean,  17 Apr 1986,  GRO, Geneva (Switzerland),  fr   # Nationality French / born in Switzerland
+Jean-Éric Vergne,   25 Apr 1990,  Pontoise, fr
+Charles Pic,          15 Feb 1990,  Montélimar | Drôme, fr
+Jules Bianchi,       3 Aug 1989,  Nice,  fr
 
-Bottas Valtteri,     Williams, fi
-Maldonado Pastor,    Williams, ve   # VEN
+Giedo van der Garde,  25 Apr 1985,  Rhenen,     nl
 
-Di Resta Paul,       Force India, gb # use en, uk?
-Sutil Adrian,        Force India, de
 
-Ricciardo Daniel,    Toro Rosso, au
-Vergne Jean Eric,    Toro Rosso, fr
+################
+# South America
 
-Bianchi Jules,       Marussia, fr
-Chilton Max,         Marussia, gb # use en, uk?
-Gonzalez Rodolfo,    Marussia, ve   # VEN
+Felipe Massa,     25 Apr 1981,  MAS,  São Paulo,  br
 
-Pic Charles,         Caterham, fr
-Van Der Garde Giedo, Caterham, nl
-Kovalainen Heikki,   Caterham, fi
-Qing Hua Ma,         Caterham, cn
+Pastor Maldonado,    9 Mar 1985,  MAL,  Maracay,  ve   # VEN
+Rodolfo González,    14 May 1986,  Caracas   ve   # VEN
+
+
+#################
+# North Amercia
+
+Sergio Pérez,     26 Jan 1990,  PER, Guadalajara | Jalisco,   mx
+Esteban Gutiérrez,  5 Aug 1991,    Monterrey,    mx
+
+
+##############
+# Asia
+
+Ma Qinghua,           25 Dec 1987,  Shanghai,    cn

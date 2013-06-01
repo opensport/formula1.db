@@ -1,0 +1,39 @@
+########################
+# Formula 1 / 2013
+
+Sebastian Vettel  /   Red Bull
+Mark Webber       /   Red Bull
+
+Fernando Alonso   /   Ferrari
+Felipe Massa      /   Ferrari
+
+Jenson Button     /   McLaren
+Sergio Pérez      /   McLaren
+
+Kimi Räikkönen    /   Lotus
+Romain Grosjean   /   Lotus
+
+Lewis Hamilton    /  Mercedes
+Nico Rosberg      /  Mercedes
+
+Nico Hülkenberg   / Sauber
+Esteban Gutiérrez / Sauber
+
+Valtteri Bottas   / Williams
+Pastor Maldonado  / Williams
+
+Paul di Resta     / Force India
+Adrian Sutil      / Force India
+
+Daniel Ricciardo  / Toro Rosso
+Jean-Éric Vergne  / Toro Rosso
+
+
+Jules Bianchi     / Marussia
+Max Chilton       / Marussia
+Rodolfo González  / Marussia
+
+Charles Pic         / Caterham
+Giedo van der Garde / Caterham
+Heikki Kovalainen   / Caterham
+Ma Qinghua          / Caterham

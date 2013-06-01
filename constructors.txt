@@ -1,0 +1,19 @@
+#################################
+# Constructors
+
+Lotus, gb                       # Engine - Renault
+McLaren, gb                     # Engine - Mercedes
+Williams, gb                    # Engine - Renault
+
+Ferrari|Scuderia Ferrari, it          # Engine - Ferrari
+Toro Rosso|Scuderia Toro Rosso, it    # Engine - Ferrari
+
+Red Bull|Red Bull Racing, at    # Engine - Renault
+
+Mercedes, de                    # Engine - Mercedes
+Sauber, ch                      # Engine - Ferrari
+
+Marussia, ru                    # Engine - Cosworth 
+
+Force India,  in                # Engine - Mercedes
+Caterham, my                    # Engine - Renault
