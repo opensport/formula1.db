@@ -1,0 +1,32 @@
+############################################################
+# Grand Prix Spain / Gran Premio de España 2013 -  Round 5 of 19
+#
+# - 12 May 2013 / Race
+
+
+# | ----------------------------------------
+# | Pos  | Driver | Team | Laps  | Time/Retired
+
+1  Fernando Alonso    Ferrari     66  1:39:16.596
+2  Kimi Räikkönen     Lotus       66  +9.3 secs
+3  Felipe Massa       Ferrari     66  +26.0 secs
+4  Sebastian Vettel   Red Bull    66  +38.2 secs
+5  Mark Webber        Red Bull    66  +47.9 secs
+6  Nico Rosberg       Mercedes    66  +68.0 secs  ## +1:08
+7  Paul di Resta      Force India 66  +68.9 secs  ## +1:08.9
+8  Jenson Button      McLaren     66  +79.5 secs  ## +1:19.5
+9  Sergio Pérez       McLaren     66  +81.7 secs  ## +1:21.7
+10 Daniel Ricciardo   Toro Rosso  65  +1 lap
+11 Esteban Gutiérrez  Sauber      65  +1 lap
+12 Lewis Hamilton     Mercedes    65  +1 lap
+13 Adrian Sutil       Force India 65  +1 lap
+14 Pastor Maldonado   Williams    65  +1 lap
+15 Nico Hülkenberg    Sauber      65  +1 lap
+16 Valtteri Bottas    Williams    65  +1 lap
+17 Charles Pic        Caterham    65  +1 lap
+18 Jules Bianchi      Marussia    64  +2 laps
+19 Max Chilton        Marussia    64  +2 laps
+
+Ret Jean-Éric Vergne     Toro Rosso   52  Collision damage
+Ret Giedo van der Garde  Caterham     21  Wheel
+Ret Romain Grosjean      Lotus         8  Suspension

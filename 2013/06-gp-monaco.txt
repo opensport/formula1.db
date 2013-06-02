@@ -1,0 +1,35 @@
+############################################################
+# Grand Prix Monaco 2013 -  Round 6 of 19
+#
+# - 26 May 2013 / Race
+
+
+# | ----------------------------------------
+# | Pos  | Driver | Team | Laps  | Time/Retired
+
+
+1  Nico Rosberg      Mercedes     78    2:17:52.056
+2  Sebastian Vettel  Red Bull     78  +3.8 secs
+3  Mark Webber       Red Bull     78  +6.3 secs
+4  Lewis Hamilton    Mercedes     78  +13.8 secs
+5  Adrian Sutil      Force India  78  +21.4 secs
+6  Jenson Button     McLaren      78  +23.1 secs
+7  Fernando Alonso   Ferrari      78  +26.7 secs
+8  Jean-Éric Vergne  Toro Rosso   78  +27.2 secs
+9  Paul di Resta     Force India  78  +27.6 secs
+10 Kimi Räikkönen    Lotus        78  +36.5 secs
+11 Nico Hülkenberg   Sauber       78  +42.5 secs
+12 Valtteri Bottas   Williams     78  +42.6 secs
+13 Esteban Gutiérrez Sauber       78  +43.2 secs
+14 Max Chilton       Marussia     78  +49.8 secs
+15 Giedo van der Garde  Caterham  78  +62.5 secs    ## +1:02.5
+16 Sergio Pérez      McLaren      72  Brakes
+
+Ret Romain Grosjean   Lotus       63  Collision damage
+Ret Daniel Ricciardo  Toro Rosso  61  Collision
+Ret Jules Bianchi     Marussia    58  Brakes
+Ret Pastor Maldonado  Williams    44  Collision
+Ret Felipe Massa      Ferrari     28  Accident
+Ret Charles Pic       Caterham     7  Gearbox
+
+# Note: Felipe Massa's accident is believed to be the result of a suspension failure.

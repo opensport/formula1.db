@@ -1,39 +1,49 @@
 ########################
 # Formula 1 / 2013
+#
+# - 11 Constructors
+# - 22 Drivers (+3 Test/Reserve Drivers)
 
-Sebastian Vettel  /   Red Bull
-Mark Webber       /   Red Bull
+(1) Sebastian Vettel  /   Red Bull
+(2) Mark Webber       /   Red Bull
 
-Fernando Alonso   /   Ferrari
-Felipe Massa      /   Ferrari
+(3) Fernando Alonso   /   Ferrari
+(4) Felipe Massa      /   Ferrari
 
-Jenson Button     /   McLaren
-Sergio Pérez      /   McLaren
+(5) Jenson Button     /   McLaren
+(6) Sergio Pérez      /   McLaren
 
-Kimi Räikkönen    /   Lotus
-Romain Grosjean   /   Lotus
+(7) Kimi Räikkönen    /   Lotus
+(8) Romain Grosjean   /   Lotus
 
-Lewis Hamilton    /  Mercedes
-Nico Rosberg      /  Mercedes
+(9) Nico Rosberg      /  Mercedes
+(10) Lewis Hamilton   /  Mercedes
 
-Nico Hülkenberg   / Sauber
-Esteban Gutiérrez / Sauber
+(11) Nico Hülkenberg   / Sauber
+(12) Esteban Gutiérrez / Sauber
 
-Valtteri Bottas   / Williams
-Pastor Maldonado  / Williams
+# NB: No. 13 Skipped - No Number 13. Good Luck.
 
-Paul di Resta     / Force India
-Adrian Sutil      / Force India
+(14) Paul di Resta     / Force India
+(15) Adrian Sutil      / Force India
 
-Daniel Ricciardo  / Toro Rosso
-Jean-Éric Vergne  / Toro Rosso
+(16) Pastor Maldonado  / Williams
+(17) Valtteri Bottas   / Williams
+
+(18) Jean-Éric Vergne  / Toro Rosso
+(19) Daniel Ricciardo  / Toro Rosso
+
+(20) Charles Pic         / Caterham
+(21) Giedo van der Garde / Caterham
+
+(22) Jules Bianchi     / Marussia
+(23) Max Chilton       / Marussia
 
 
-Jules Bianchi     / Marussia
-Max Chilton       / Marussia
+##############
+# Test/Reserve Drivers
+
 Rodolfo González  / Marussia
 
-Charles Pic         / Caterham
-Giedo van der Garde / Caterham
 Heikki Kovalainen   / Caterham
 Ma Qinghua          / Caterham

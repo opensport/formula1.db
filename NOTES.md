@@ -7,4 +7,3 @@
 
 ### Wikipedia
 
-- [2013_Formula_One_season](http://en.wikipedia.org/wiki/2013_Formula_One_season)
