@@ -1,0 +1,32 @@
+############################################################
+# Grand Prix Bahrain 2013 -  Round 4 of 19
+#
+# - 21 April 2013 / Race
+
+
+# | ----------------------------------------
+# | Pos  | Driver | Team | Laps  | Time/Retired
+
+1  Sebastian Vettel  Red Bull     57  1:36:00.498
+2  Kimi Räikkönen    Lotus        57  +9.1 secs
+3  Romain Grosjean   Lotus        57  +19.5 secs
+4  Paul di Resta     Force India  57  +21.7 secs
+5  Lewis Hamilton    Mercedes     57  +35.2 secs
+6  Sergio Pérez      McLaren      57  +35.9 secs
+7  Mark Webber       Red Bull     57  +37.2 secs
+8  Fernando Alonso   Ferrari      57  +37.5 secs
+9  Nico Rosberg      Mercedes     57  +41.1 secs
+10 Jenson Button     McLaren      57  +46.6 secs
+11 Pastor Maldonado  Williams     57  +66.4 secs   ## 1:06.4
+12 Nico Hülkenberg   Sauber       57  +72.9 secs   ## 1:12.9
+13 Adrian Sutil      Force India  57  +76.7 secs   ## 1:16.7
+14 Valtteri Bottas   Williams     57  +81.5 secs   ## 1:21.5
+15 Felipe Massa      Ferrari      57  +86.3 secs   ## 1:26.3
+16 Daniel Ricciardo  Toro Rosso   56  +1 lap
+17 Charles Pic       Caterham     56  +1 lap
+18 Esteban Gutiérrez  Sauber      56  +1 lap
+19 Jules Bianchi     Marussia     56  +1 lap
+20 Max Chilton       Marussia     56  +1 lap
+21 Giedo van der Garde  Caterham  55  +2 laps
+
+Ret  Jean-Éric Vergne  Toro Rosso   16  Puncture damage
