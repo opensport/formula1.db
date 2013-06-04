@@ -9,7 +9,7 @@ Daniel Ricciardo,    1 Jul 1989,   Perth | Western Australia,  au
 # Europe
 
 Sebastian Vettel|S. Vettel|Vettel,  3 July 1987, VET,  Heppenheim | Hesse,  de
-Nico Rosberg,     27 Jun 1985,  ROS,   Wiesbaden  de
+Nico Rosberg,     27 Jun 1985,  ROS,   Wiesbaden,  de
 Nico Hülkenberg,   19 Aug 1987,   Emmerich am Rhein,    de
 Adrian Sutil,       11 Jan 1983,  SUT, Starnberg,    de
 
