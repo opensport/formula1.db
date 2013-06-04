@@ -38,7 +38,7 @@ Giedo van der Garde,  25 Apr 1985,  Rhenen,     nl
 Felipe Massa,     25 Apr 1981,  MAS,  São Paulo,  br
 
 Pastor Maldonado,    9 Mar 1985,  MAL,  Maracay,  ve   # VEN
-Rodolfo González,    14 May 1986,  Caracas   ve   # VEN
+Rodolfo González,    14 May 1986,  Caracas,   ve   # VEN
 
 
 #################
