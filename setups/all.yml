@@ -1,4 +1,7 @@
+
 all:
+- seasons
+- leagues
 - circuits
 - drivers
 - teams
