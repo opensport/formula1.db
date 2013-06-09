@@ -1,0 +1,11 @@
+
+all:
+- seasons
+- leagues
+- circuits
+- drivers
+- teams
+
+
+2013:
+- 2013/races
