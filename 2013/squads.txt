@@ -42,8 +42,9 @@
 
 ##############
 # Test/Reserve Drivers
-
-Rodolfo González  / Marussia
-
-Heikki Kovalainen   / Caterham
-Ma Qinghua          / Caterham
+#   NB: (<num>) required
+#
+# Rodolfo González  / Marussia
+#
+# Heikki Kovalainen   / Caterham
+# Ma Qinghua          / Caterham
