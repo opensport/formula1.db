@@ -1,40 +1,40 @@
 ############################
 # Pacific (& Australia)
 
-au, Grand Prix Australia|GP Australia (Melbourne Circuit), AUS, Melbourne, au
+au, Grand Prix Australia (Melbourne Circuit)|GP Australia, AUS, Melbourne, au
 
 ##############
 # Asia
 
-my, Grand Prix Malaysia|GP Malaysia  (Sepang Circuit), MAL, Kuala Lumpur, my
-cn, Grand Prix China (Shanghai Circuit), Shanghai, CHN, cn
-sg, Grand Prix Singapur (Marina Bay Street Circuit), SIN, Marina Bay, sg
-kr, Grand Prix South Korea (Korea  Circuit), KOR, Yeongam, kr
-jp, Grand Prix Japan     (Suzuka Circuit), JPN, Suzuka, jp
-in, Grand Prix India     (Buddh Circuit), IND, Greater Noida, in
+my, Grand Prix Malaysia (Sepang Circuit)|GP Malaysia, MAL, Kuala Lumpur, my
+cn, Grand Prix China (Shanghai Circuit)|GP China, Shanghai, CHN, cn
+sg, Grand Prix Singapur (Marina Bay Street Circuit)|GP Singapur, SIN, Marina Bay, sg
+kr, Grand Prix South Korea (Korea  Circuit)|GP South Korea, KOR, Yeongam, kr
+jp, Grand Prix Japan (Suzuka Circuit)|GP Japan, JPN, Suzuka, jp
+in, Grand Prix India (Buddh Circuit)|GP India, IND, Greater Noida, in
 
 #############
 # Middle East
 
-bh, Grand Prix Bahrain (Bahrain Circuit), BHR, Sakhir, bh
-ae, Grand Prix Abu Dhabi   (Yas Marina Circuit), ABU, Abu Dhabi, ae 
+bh, Grand Prix Bahrain (Bahrain Circuit)|GP Bahrain, BHR, Sakhir, bh
+ae, Grand Prix Abu Dhabi (Yas Marina Circuit)|GP Abu Dhabi, ABU, Abu Dhabi, ae 
 
 #################
 # Europe
 
 es, Grand Prix Spain (Circuit de Catalunya), ESP, Barcelona, es
-mc, Grand Prix Monaco    (Circuit de Monaco), MON, Monte Carlo, mc
-gb, Grand Prix Great Britain  (Silverstone Circuit), GBR, Silverstone, gb
+mc, Grand Prix Monaco (Circuit de Monaco), MON, Monte Carlo, mc
+gb, Grand Prix Great Britain (Silverstone Circuit), GBR, Silverstone, gb
 
-de, Grand Prix German  (Nürburgring), GER, Nürburg, de
-hu, Grand Prix Hungary  (Hungaroring), HUN, Budapest, hu
-be, Grand Prix Belgium   (Circuit de Spa-Francorchamps), BEL, Francorchamps, be
-it, Grand Prix Italy     (Autodromo Nazionale Monza), ITA, Monza, it
+de, Grand Prix Germany (Nürburgring), GER, Nürburg, de
+hu, Grand Prix Hungary (Hungaroring), HUN, Budapest, hu
+be, Grand Prix Belgium (Circuit de Spa-Francorchamps), BEL, Francorchamps, be
+it, Grand Prix Italy (Autodromo Nazionale Monza), ITA, Monza, it
 
 ##################
 # North America
 
-ca, Grand Prix Canada  (Circuit Gilles Villeneuve), CAN, Montreal, ca
+ca, Grand Prix Canada (Circuit Gilles Villeneuve), CAN, Montreal, ca
 us, Grand Prix United States (Circuit of the Americas), USA, Austin, us
 
 ####################
