@@ -85,7 +85,7 @@ The `formula1.db` includes the following tables:
 * [records](2013/06-gp-monaco.txt) (join table race+person e.g. 1  Sebastian Vettel  Red Bull  70  1:32:09.143, etc.)
 
 
-## How to use formula1.db in Ruby
+## How to use `formula1.db` in Ruby
 
 Driver Model
 
