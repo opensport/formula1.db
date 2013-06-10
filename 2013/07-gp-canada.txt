@@ -1,0 +1,33 @@
+############################################################
+# Grand Prix Canada 2013 -  Round 7 of 19
+#
+# - 9 June 2013 / Race
+
+
+# | ----------------------------------------
+# | Pos  | Driver | Team | Laps  | Time/Retired
+
+
+1   Sebastian Vettel   Red Bull      70  1:32:09.143
+2   Fernando Alonso    Ferrari       70  +14.4 secs
+3   Lewis Hamilton     Mercedes      70  +15.9 secs
+4   Mark Webber        Red Bull      70  +25.7 secs
+5   Nico Rosberg       Mercedes      70  +69.7 secs   ## 1:09.725
+6   Jean-Éric Vergne   Toro Rosso    69  +1 lap
+7   Paul di Resta      Force India   69  +1 lap
+8   Felipe Massa       Ferrari       69  +1 lap
+9   Kimi Räikkönen     Lotus         69  +1 lap
+10  Adrian Sutil       Force India   69  +1 lap
+11  Sergio Pérez       McLaren       69  +1 lap
+12  Jenson Button      McLaren       69  +1 lap
+13  Romain Grosjean    Lotus         69  +1 lap
+14  Valtteri Bottas    Williams      69  +1 lap
+15  Daniel Ricciardo   Toro Rosso    68  +2 laps
+16  Pastor Maldonado   Williams      68  +2 laps
+17  Jules Bianchi      Marussia      68  +2 laps
+18  Charles Pic        Caterham      67  +3 laps
+19  Max Chilton        Marussia      67  +3 laps
+20  Esteban Gutiérrez  Sauber        63  Accident
+
+Ret Nico Hülkenberg      Sauber      45  Collision damage
+Ret Giedo van der Garde  Caterham    43  Collision
