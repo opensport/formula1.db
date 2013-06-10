@@ -77,7 +77,7 @@ That's it.
 
 The `formula1.db` includes the following tables:
 
-* [teams](teams/txt) (e.g. Red Bull, Ferrari, McLaren, etc.)
+* [teams](teams.txt) (e.g. Red Bull, Ferrari, McLaren, etc.)
 * [tracks](circuits.txt) (also known as circuits e.g. GP Australia, GP Japan, GP Monaco, etc.)
 * [persons](drivers.txt) (also known as drivers e.g. Sebastian Vettel, Fernando Alonso, Kimi Räikkönen, etc.)
 * [rosters](2013/squads.txt) (join table team+person+event also known as squads e.g. 2013  Red Bull  Sebastian Vettel, etc.)
