@@ -1,6 +1,6 @@
 # Welcome to `formula1.db`
 
-A free open public domain Formula 1/Formula One database & schema
+A free open public domain Formula 1/Formula One database 'n' schema
 for use in any (programming) language
 (e.g. uses plain text fixtures/data sets). Example:
 
@@ -56,7 +56,8 @@ mc, Grand Prix Monaco (Circuit de Monaco), MON, Monte Carlo, mc
 
 ## Usage
 
-Build yourself a copy of the `formula1.db` from the plain text fixtures in three steps.
+Use the `sportdb` command line tool to build your own `formula1.db` copy
+from the plain text fixtures. Example:
 
 Step 1: Get a copy of the `world.db` fixtures
 
@@ -71,6 +72,8 @@ Step 3: Let's build the `formula1.db`
     $ sportdb setup --include ./formula1.db --worldinclude ./world.db --dbname formula1.db
 
 That's it.
+See the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby) for more.
+
 
 
 ## Tables, Schema
@@ -112,6 +115,16 @@ jp.country.title
 ~~~
 
 and so on.
+
+
+## Links
+
+- Official Formula 1 / F1 Site -> [`formula1.com`](http://formula1.com)
+
+### Wikipedia
+
+- [Formula_One](http://en.wikipedia.org/wiki/Formula_One)
+
 
 ## License
 
