@@ -61,11 +61,11 @@ from the plain text fixtures. Example:
 
 Step 1: Get a copy of the `world.db` fixtures
 
-    $ git clone git://github.com/geraldb/world.db.git
+    $ git clone git://github.com/openmundi/world.db.git
 
 Step 2: Get a copy the `formula1.db` fixtures
 
-    $ git clone git://github.com/geraldb/formula1.db.git
+    $ git clone git://github.com/opensport/formula1.db.git
 
 Step 3: Let's build the `formula1.db`
 
